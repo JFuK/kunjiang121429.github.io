@@ -19,7 +19,7 @@ git remote add origin 仓库地址
 git push origin hexo
 ```
 此时相应的GitHub仓库会新建一个hexo分支，这个分支保存了所有的配置信息，时实现多终端同步的关键
-
+<!--more-->
 ### 在其余设备上完成clone和push更新
 此时在其余设备上更新博客时，应当先把GitHub仓库的hexo分支clone下来，并进行配置
 操作步骤如下：
