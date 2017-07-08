@@ -1,7 +1,7 @@
 ---
 title: GitHub +Hexo 博客多设备同步问题
 date: 2017-07-08 19:34:39
-tags:
+tags: GitHub+Hexo
 ---
 本文只讲解如何实现多设备更新问题，基于GitHub和Hexo创建博客问题请另参考其他文章
 
