@@ -2,8 +2,9 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
-
+  随笔: /
+  # 随笔: /tags/随笔/
+ 
 # SubNav
 subnav:
   github: "https://github.com/"
