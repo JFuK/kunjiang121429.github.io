@@ -44,7 +44,7 @@ localstorage在一个标签页里被修改、添加和删除时都会触发一�
 </script>
 ```
 标签页2：
-```` bash
+``` bash
 <script type="text/javascript">  
     $(function(){   
         function getCookie(key) {    
