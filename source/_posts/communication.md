@@ -1,7 +1,7 @@
 ---
 title: localstorage和cookies实现多个标签页间的通信
 date: 2017-07-26 11:44:56
-tags:web通信
+tags: web通信
 ---
 ### localstorage实现
 localstorage在一个标签页里被修改、添加和删除时都会触发一个storage事件，通过在另一个标签页内监听stroage事件,就可以获取localstorage存储的内容，实现不同标签页间的通信。
