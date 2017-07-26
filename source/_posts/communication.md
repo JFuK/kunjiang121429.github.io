@@ -28,8 +28,9 @@ localstorage在一个标签页里被修改、添加和删除时都会触发一�
 	});
 </script>
 ```
-### cookies+setInterval
+### cookies + setInterval
 将要传递的信息存储在cookie中，设置定时器，每隔一段时间读取cookie信息，即可随时获取要传递的信息
+<!--more-->
 标签页1：
 ``` bash
 <input id="name">  
